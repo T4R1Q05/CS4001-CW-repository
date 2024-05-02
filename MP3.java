@@ -1,3 +1,8 @@
+/*
+ * Aurthor: Tariq Chowdhury
+ * Date: 2/05/2024
+ * Purpose: This class is a subclass of Gadget and represents an MP3 player. It has an additional attribute remainingMemory which represents the memory available on the MP3 player. The class has a constructor, getAvailableMemory method, downloadMP3 method, deleteMP3 method and display method.
+ */
 import javax.swing.JOptionPane;
 
 public class MP3 extends Gadget {
