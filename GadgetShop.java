@@ -1,3 +1,8 @@
+/*
+ * Author:  Tariq Chowdhury
+ * Date: 2/05/2024
+ * Purpose: This class is the main class for the Gadget Shop program. It creates a GUI for the user to interact with the program. The user can add Mobiles and MP3 players to the shop, display all the gadgets in the shop, make a call from a mobile, and download music to an MP3 player.
+ */
 import java.awt.GridLayout;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
